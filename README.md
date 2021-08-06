@@ -43,5 +43,5 @@ caso seja feito um pedido de saque de R$ 100,00 e o caixa conter apenas notas de
  - No serviço/módulo do caixa eletrônico é obrigatório conter testes unitários(TDD).
  - Todos os dados devem ser guardados em um banco de dados (Postgres ou Mysql).
  - Os projetos devem ser desenvolvidos em java8 ou alguma versão superior + stack do Spring(Boot, Data, Etc...).
- - O prazo de entrega da prova é de 6 dias corridos.
+ - O prazo de entrega da prova é de 4 dias corridos.
  
